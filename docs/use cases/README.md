@@ -75,10 +75,13 @@ TaskManagement <.d. DeleteTask
 
 @enduml
 
+<<<<<<< HEAD
 
 
 
 
+=======
+>>>>>>> 825f29855ee20dc32c464d0fe54ad7cd26e99b0a
 **Діаграма прецедентів**
 
 </center>
@@ -122,7 +125,10 @@ TeamManagement <.u. AddCollaborator
 TeamManagement <.d. DeleteCollaborator
 
 @enduml
+<<<<<<< HEAD
 
+=======
+>>>>>>> 825f29855ee20dc32c464d0fe54ad7cd26e99b0a
 
 </center>
 
