@@ -394,7 +394,7 @@ note right #fd625e
 end note
 :Видаляє завдання з проєкту;
 
-|Користувач| stop;
+stop;
 @enduml
 
 | ID                | CreateProject  |
