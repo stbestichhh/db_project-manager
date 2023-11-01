@@ -1,0 +1,291 @@
+[33mcommit 9145bddba69ac708dd3878e1c4c7bbb69053eefc[m[33m ([m[1;36mHEAD -> [m[1;32mnasty-dev[m[33m)[m
+Merge: d7a436e 1c216f5
+Author: anastasia-sl <anastasiaslynko2206@gmail.com>
+Date:   Wed Nov 1 22:42:30 2023 +0200
+
+    Merge branch 'master' into nasty-dev
+
+[33mcommit 1c216f5202d410cd32e40b47b80b1af3a91ac2a8[m[33m ([m[1;31morigin/master[m[33m, [m[1;31morigin/HEAD[m[33m, [m[1;32mmaster[m[33m)[m
+Author: Kiril Yakymchuk <stbestich@gmail.com>
+Date:   Wed Nov 1 21:13:04 2023 +0200
+
+    resolver conflict
+
+[33mcommit b1d97ae96fcb024152c5dc91ed7c095915d2a1cf[m
+Merge: 5b29d68 a68ec18
+Author: Kiril Yakymchuk <stbestich@gmail.com>
+Date:   Wed Nov 1 19:10:09 2023 +0000
+
+    Merge pull request #8 from stbestichhh/max-dev
+    
+    Create Edit Delete
+
+[33mcommit a68ec182308a9c14f998dec7d288cbf5f42fce71[m[33m ([m[1;31morigin/max-dev[m[33m)[m
+Merge: bd5ae39 5b29d68
+Author: Kirill Yaymchuk <stbestich@gmail.com>
+Date:   Wed Nov 1 21:09:10 2023 +0200
+
+    Merge branch 'master' into max-dev
+
+[33mcommit bd5ae393e1f3e6323d6c7a0c52a395d49a0a6364[m
+Author: Cake2Rock <95484347+Cake2Rock@users.noreply.github.com>
+Date:   Wed Nov 1 21:01:38 2023 +0200
+
+    Update README.md
+
+[33mcommit 0cf94cfb8192073ef435836c52e0871ce17b31f9[m
+Author: Cake2Rock <95484347+Cake2Rock@users.noreply.github.com>
+Date:   Wed Nov 1 20:50:58 2023 +0200
+
+    Create Edit Delete
+
+[33mcommit 5b29d6854575ca46e1a54e4df8f0b7527530efb8[m
+Merge: ee50853 62e82e8
+Author: Kiril Yakymchuk <stbestich@gmail.com>
+Date:   Wed Nov 1 18:39:03 2023 +0000
+
+    Merge pull request #7 from stbestichhh/andrew-dev
+    
+    updated use cases
+
+[33mcommit 62e82e830d01fb120594f4e029b92d36c01ab6fa[m[33m ([m[1;31morigin/andrew-dev[m[33m)[m
+Author: Andrew2831 <123078667+Andrew2831@users.noreply.github.com>
+Date:   Wed Nov 1 20:34:57 2023 +0200
+
+    updated use cases
+
+[33mcommit d7a436e6171cd61e136aa9212c535b92e23ae2b8[m[33m ([m[1;31morigin/nasty-dev[m[33m)[m
+Author: anastasia-sl <anastasiaslynko2206@gmail.com>
+Date:   Wed Nov 1 18:45:14 2023 +0200
+
+    Editing and deleting tasks
+
+[33mcommit ee50853529676c9f67dfc97e313f995f76a2a648[m
+Author: Kirill Yaymchuk <stbestich@gmail.com>
+Date:   Wed Oct 25 19:57:13 2023 +0300
+
+    Signup diagram
+
+[33mcommit a82e5247d6381eedef9138eafb59eff8a8b16123[m
+Author: Kirill Yaymchuk <stbestich@gmail.com>
+Date:   Wed Oct 25 19:33:21 2023 +0300
+
+    Admin usecase diagram
+
+[33mcommit 181dafcccbc4204af99f88298a8141a47026bc14[m
+Author: Kirill Yaymchuk <stbestich@gmail.com>
+Date:   Wed Oct 25 19:24:38 2023 +0300
+
+    Teamlead usecase diagramm
+
+[33mcommit 17df5d31228a28c511d0251ce1f2211bea95a2c5[m
+Author: Kirill Yaymchuk <stbestich@gmail.com>
+Date:   Wed Oct 25 19:11:15 2023 +0300
+
+    Collaborator usecase diagram
+
+[33mcommit 51549d3e6c7e647e7eca98ab711ecb50638e2c0e[m
+Author: Kirill Yaymchuk <stbestich@gmail.com>
+Date:   Wed Oct 25 18:57:44 2023 +0300
+
+    General usecase diagram
+
+[33mcommit bc2bd8e875e0b23f8112f4a2fb2311597510b48a[m
+Merge: dba0ecf a25f957
+Author: Kiril Yakymchuk <stbestich@gmail.com>
+Date:   Mon Oct 23 13:05:32 2023 +0300
+
+    Merge pull request #5 from stbestichhh/andrew-dev
+    
+    Update stakeholders-needs.md
+
+[33mcommit a25f957a1cd8ce6f2a0dd4954559d64dc06b1e27[m
+Author: Andrew2831 <123078667+Andrew2831@users.noreply.github.com>
+Date:   Mon Oct 23 12:51:14 2023 +0300
+
+    Update stakeholders-needs.md
+
+[33mcommit dba0ecf5cef8371bf2fcd0e10eb2d23112d21e89[m
+Author: Kirill Yaymchuk <stbestich@gmail.com>
+Date:   Sat Oct 21 00:16:20 2023 +0300
+
+    .
+
+[33mcommit 77e9169a0c6fa985cdb42dbc464feebfdcfe73b2[m
+Merge: 249b525 9b348d9
+Author: Kiril Yakymchuk <stbestich@gmail.com>
+Date:   Sat Oct 21 00:13:44 2023 +0300
+
+    Merge pull request #4 from stbestichhh/maxhomsh-dev
+    
+    add base functionality section content
+
+[33mcommit 9b348d92971496f6ed76d2c78e1df213495c6441[m[33m ([m[1;31morigin/maxhomsh-dev[m[33m)[m
+Author: Max <maksimhomisak64@gmail.com>
+Date:   Fri Oct 20 23:05:48 2023 +0200
+
+    add base functionality section content
+
+[33mcommit 249b525bbfa52043dc89a4457f2d21a377c98045[m
+Merge: 01081c7 5ba0287
+Author: Kiril Yakymchuk <stbestich@gmail.com>
+Date:   Thu Oct 19 21:12:34 2023 +0300
+
+    Merge pull request #3 from stbestichhh/vadim-edv
+    
+    Update stakeholders-needs.md
+
+[33mcommit 5ba0287316c763775e03c5100a0e22915a6b2a98[m[33m ([m[1;31morigin/vadim-edv[m[33m)[m
+Merge: ab07fc8 01081c7
+Author: Kirill Yaymchuk <stbestich@gmail.com>
+Date:   Thu Oct 19 21:09:36 2023 +0300
+
+    Merge branch 'master' into vadim-edv
+
+[33mcommit ab07fc8dca44cc6f2ca6aafd67a9a376a5143e01[m
+Author: Vadym Shkoda <123008596+vadikd21@users.noreply.github.com>
+Date:   Thu Oct 19 20:57:14 2023 +0300
+
+    Update stakeholders-needs.md
+
+[33mcommit 01081c7f62849d2a151c4dce2dc213c740a8d111[m
+Merge: d5d8880 731bc95
+Author: Kiril Yakymchuk <stbestich@gmail.com>
+Date:   Thu Oct 19 13:39:08 2023 +0300
+
+    Merge pull request #2 from stbestichhh/nasty-dev
+    
+    Nasty dev
+
+[33mcommit 731bc95d959a17284431e84bd61cb9465a84e29d[m
+Author: Kirill Yaymchuk <stbestich@gmail.com>
+Date:   Thu Oct 19 13:24:57 2023 +0300
+
+    Added extra folder in git ignore
+
+[33mcommit 3180b86238288761c7943037a4823d463f6cbccf[m
+Author: Kirill Yaymchuk <stbestich@gmail.com>
+Date:   Thu Oct 19 13:21:20 2023 +0300
+
+    Cleared extra lines
+
+[33mcommit 05e9715f2258a66c6833b1a6f0cd966f0f757812[m
+Author: anastasia-sl <anastasiaslynko2206@gmail.com>
+Date:   Thu Oct 19 11:17:51 2023 +0300
+
+    short product overview
+
+[33mcommit f53f08c0f640ae3034d766525ea5b2d5f5f0acc7[m
+Merge: 5cc15e8 d5d8880
+Author: anastasia-sl <anastasiaslynko2206@gmail.com>
+Date:   Thu Oct 19 10:33:05 2023 +0300
+
+    Merge remote-tracking branch 'origin/master'
+
+[33mcommit d5d88800fa3444a4e8b1ac6085469282a4dc2a5d[m
+Merge: 8065a4c ade0755
+Author: Kiril Yakymchuk <stbestich@gmail.com>
+Date:   Wed Oct 18 14:41:31 2023 +0300
+
+    Merge pull request #1 from stbestichhh/max-dev
+    
+    Update stakeholders-needs.md
+
+[33mcommit ade07557f30478eb516547b7419756149b407537[m
+Author: Kirill Yaymchuk <stbestich@gmail.com>
+Date:   Wed Oct 18 14:40:04 2023 +0300
+
+    Fixed doc
+    
+    Fixed text location, added markdown list code
+
+[33mcommit a82d4ff0bd958d1a601ba4883ef8baf5f064beeb[m
+Author: Cake2Rock <95484347+Cake2Rock@users.noreply.github.com>
+Date:   Wed Oct 18 14:22:55 2023 +0300
+
+    Update stakeholders-needs.md
+    
+    Added desciptions of practicality and reliability
+
+[33mcommit e8cdf4c8c78cef08ffdba49d8a12b25ad11f1ac0[m
+Merge: 8ceaaac 8065a4c
+Author: Cake2Rock <95484347+Cake2Rock@users.noreply.github.com>
+Date:   Wed Oct 18 14:10:58 2023 +0300
+
+    Merge branch 'master' into max-dev
+
+[33mcommit 8ceaaac5d41da277ef597b1c70c371774859b030[m
+Author: Cake2Rock <95484347+Cake2Rock@users.noreply.github.com>
+Date:   Wed Oct 18 13:23:34 2023 +0300
+
+    Update stakeholders-needs.md
+    
+    Added description of functions and reliability
+
+[33mcommit 5cc15e835a2f46f2d2bc796da92b1f73f1ad3819[m
+Author: anastasia-sl <anastasiaslynko2206@gmail.com>
+Date:   Tue Oct 17 14:31:02 2023 +0300
+
+    Short product overview
+
+[33mcommit 8065a4cbb544c0d101631f0ccd50b03eebf8b2ab[m
+Author: Kirill Yaymchuk <stbestich@gmail.com>
+Date:   Mon Oct 16 19:25:29 2023 +0300
+
+    Fixed CreateProject scenario
+
+[33mcommit ea5c7e61ad5ca67ec0dd35e5c120749e62e04be1[m
+Author: Kirill Yaymchuk <stbestich@gmail.com>
+Date:   Mon Oct 16 11:30:01 2023 +0300
+
+    Fixed docs content
+
+[33mcommit 1c31f5ac9a981f17dbda126470fe6529a71d1e29[m
+Author: Kirill Yaymchuk <stbestich@gmail.com>
+Date:   Mon Oct 16 11:26:36 2023 +0300
+
+    Updated state-of-the-art intro
+
+[33mcommit 4c6f8a934dd35cef7f1f420f0911f14fe34fa3a3[m
+Author: Kirill Yaymchuk <stbestich@gmail.com>
+Date:   Thu Oct 12 17:02:56 2023 +0300
+
+    stakeholders-needs
+    
+    Intro, contents, scenarios
+
+[33mcommit 8ed4d49f9452dd50fc920c7195750aa41f33c5d6[m
+Author: Kirill Yaymchuk <stbestich@gmail.com>
+Date:   Wed Oct 11 20:27:09 2023 +0300
+
+    Finished with state of the art
+
+[33mcommit 579842064d798a501308eb30d1619157e3bcf128[m
+Author: Kirill Yaymchuk <stbestich@gmail.com>
+Date:   Wed Oct 11 17:49:56 2023 +0300
+
+    Added necessary for deploy modules
+
+[33mcommit 0fa16273f419909b1948d708d529e69c180af802[m[33m ([m[1;31morigin/kiril-dev[m[33m)[m
+Author: Kirill Yaymchuk <stbestich@gmail.com>
+Date:   Wed Oct 11 16:58:02 2023 +0300
+
+    Initial commit
+
+[33mcommit d5d2e93934d44aa608e10872eaf94c75002f9d6a[m
+Author: boldak <boldak.andrey@gmail.com>
+Date:   Fri Jan 14 11:51:36 2022 +0200
+
+     fix doc
+
+[33mcommit 6c3f8a93914cd4d67600b3e0d122760c13aaf045[m
+Author: boldak <boldak.andrey@gmail.com>
+Date:   Thu Jan 13 12:59:06 2022 +0200
+
+    initial
+
+[33mcommit 8917dc3bffed9fd089ee835c32f3d51123ae7ac2[m
+Author: boldak <boldak.andrey@gmail.com>
+Date:   Thu Jan 13 12:27:24 2022 +0200
+
+    Initial commit
