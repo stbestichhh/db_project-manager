@@ -81,3 +81,4 @@ Collaborator "1,1" -d- "0,*" Assignment
 
 ## Реляційна схема
 
+![Реляційна схема](../assets/images/rel_scheme.png)
