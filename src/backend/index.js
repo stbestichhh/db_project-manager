@@ -13,8 +13,6 @@ const db = mysql.createConnection({
 	database: 'mydb',
 });
 
-app.use(express.json());
-
 app.get('/', (req, res) => {
 	res.json('Connected to backend');
 });
