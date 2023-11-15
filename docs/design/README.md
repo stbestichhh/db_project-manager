@@ -78,6 +78,79 @@ Collaborator "1,1" -d- "0,*" Assignment
 @enduml
 
 ## ER-модель
+@startuml
+
+entity User {
+  +id: INT
+  +nickname: TEXT
+  +email: TEXT
+  +password: TEXT
+  +avatar: TEXT
+  +blockStatus: BOOL
+}
+
+entity Collaborator {
+  +id: INT
+  +collaboratorID: INT
+}
+
+entity Role {
+  +id: INT
+  +roleID: INT 
+  +name: TEXT
+}
+
+entity Grant {
+  +id: INT
+  +grantID: INT
+}
+
+entity Permission {
+  +id: INT
+  +permissionID: INT
+}
+
+entity Team {
+  +id: INT
+  +teamID: INT
+}
+
+entity Project {
+  +id: INT
+  +projectID: INT
+  +name: TEXT
+  +description: TEXT
+  +manager: TEXT
+}
+
+entity Task {
+  +id: INT
+  +taskID: INT
+  +name: TEXT
+  +description: TEXT
+  +deadline: DATETIME
+  +priority: TEXT
+  +difficulty: TEXT
+}
+
+entity Assignment {
+  +id: INT
+  +assignmentID: INT
+}
+
+User -- Collaborator : "0,*" -- "1,1"
+Collaborator -- Role : "0,*" -- "1,1"
+Role -- Grant : "0,*" -- "1,1"
+Grant -- Permission : "1,1" -- "0,*"
+Collaborator -- Team : "0,*" -- "1,1"
+Team -- Project : "0,*" -- "1,1"
+Collaborator -- Assignment : "0,*" -- "1,1"
+Task -- Assignment : "1,1" -- "0,*"
+Task -- Project : "1,1" -- "0,*"
+
+@enduml
+
+
 
 ## Реляційна схема
 
